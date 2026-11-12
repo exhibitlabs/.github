@@ -12,12 +12,12 @@
 
 <p align="center">
   <a href="https://exhibit.9to5code.com"><b>Website</b></a> ·
+  <a href="https://github.com/exhibitlabs/exhibit"><b>Repository</b></a> ·
   <a href="https://www.youtube.com/watch?v=lyszhLggWDc"><b>Demo video</b></a> ·
   <a href="https://app.exhibit.9to5code.com/app">Live demo</a> ·
   <a href="https://exhibit.9to5code.com/proof">Sandbox proof</a> ·
   <a href="https://exhibit.9to5code.com/docs">Docs</a> ·
   <a href="https://exhibit.9to5code.com/contact">Book a demo</a>
-  <!-- REPO: add <a href="https://github.com/exhibitlabs/exhibit">Repository</a> once the repository is public -->
 </p>
 
 <p align="center">
